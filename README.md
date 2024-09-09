@@ -1,8 +1,11 @@
 # P2PFileShare Project
 
 Erik Hartker (erik.hartker@ufl.edu)
+
 Abigail Prechter (prechterabigail@ufl.edu)
+
 Samitha Kosanam (sa.foster@ufl.edu)
+
 
 ## How to run the project
 Navigate to the directory that the project is in on the CLI. Then, run the following commands to compile and run the program for a single peer:
